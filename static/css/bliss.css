@@ -1,0 +1,79 @@
+ul{
+    list-style-type: none;
+    margin:0;
+    padding: 0;
+    overflow: hidden;
+    background-color: bisque;
+
+
+
+}
+li{
+    float: left;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+}
+li,a{
+    padding: 20px;
+
+}
+li,a:hover{
+    background-color: bisque;
+    color: #173342;
+}
+.fruits{
+
+    background-color: darkcyan;
+    border: 2px solid black;
+    margin: 15px;
+    padding: 15px;
+    text-align: center;
+    color:wheat;
+}
+.cars{
+    background-color: chartreuse;
+    border: 2px solid black;
+    margin: 15px;
+    padding: 30px;
+    color: black;
+    font-family: "DejaVu Sans Mono"
+    t
+}
+.FRUITS{
+    background-color: #634188;
+    border: 3px solid black;
+    margin: 20px;
+    padding: 25px;
+    color: azure;
+    font-family: "Fira Code Retina";
+}
+.gaming{
+    background-color: darkcyan;
+    color: black;
+    border: 2px solid black;
+}
+.games{
+    background-color: blueviolet;
+    color: azure;
+    border: 2px solid white;
+}
+.music{
+    background-color: cornflowerblue;
+    color: black;
+    border: 2px solid black;
+}
+#matunda{
+    background-color: lightcoral;
+    border: 5px dotted black;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+#magari{
+    background-color: cornflowerblue;
+    border:5px dotted white ;
+    margin: 15px;
+    padding: 15px;
+    text-align: center;
+}
